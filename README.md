@@ -18,8 +18,8 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="rocketpay WEB" src="./rocketPayWeb.png" width="75%">
-  <img alt= "rocketpay WEB mobile" src="./rocketPayWebMobile.png" widh="20%">
+  <img alt="rocketpay WEB" src="./rocketPayWeb.png" width="50%">
+  <img alt= "rocketpay WEB mobile" src="./rocketPayWebMobile.png" height="500px">
 </p>
 
 ## 🚀 Tecnologias
